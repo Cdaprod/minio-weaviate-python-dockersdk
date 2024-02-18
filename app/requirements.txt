@@ -1,1 +1,7 @@
-weaviate-client
+# weaviate-client
+
+fastapi
+uvicorn
+minio
+docker
+python-multipart
